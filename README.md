@@ -2,6 +2,12 @@
 
 Una aplicación web de portafolio personal construida con React y React Router DOM para demostrar el uso de routing en aplicaciones de página única (SPA).
 
+## 🌐 **[Mi Aplicación React con Routing](https://sony2025.github.io/react-routing-portfolio/)**
+
+## 🌟 Característicasrtafolio React 🚀
+
+Una aplicación web de portafolio personal construida con React y React Router DOM para demostrar el uso de routing en aplicaciones de página única (SPA).
+
 ## � **[Ver Demo en Vivo](https://sony2025.github.io/react-routing-portfolio/)**
 
 ## �🌟 Características

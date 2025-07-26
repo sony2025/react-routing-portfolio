@@ -1,8 +1,74 @@
-# Getting Started with Create React App
+# Mi Portafolio React 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Una aplicación web de portafolio personal construida con React y React Router DOM para demostrar el uso de routing en aplicaciones de página única (SPA).
 
-## Available Scripts
+## 🌟 Características
+
+- ✅ **Routing con React Router DOM v6**
+- ✅ **Navegación entre múltiples páginas**
+- ✅ **Componentes organizados y reutilizables**
+- ✅ **Diseño responsive y moderno**
+- ✅ **Hot reload para desarrollo**
+
+## 📁 Estructura del Proyecto
+
+```
+src/
+├── components/
+│   ├── Inicio.js      # Página de inicio/bienvenida
+│   ├── SobreMi.js     # Información personal
+│   └── Proyectos.js   # Lista de proyectos
+├── App.js             # Componente principal con routing
+├── App.css            # Estilos de la aplicación
+└── index.js           # Punto de entrada
+```
+
+## 🛠️ Tecnologías Utilizadas
+
+- **React 19.1.0** - Biblioteca de JavaScript para interfaces de usuario
+- **React Router DOM** - Routing declarativo para React
+- **CSS3** - Estilos y diseño responsive
+- **Create React App** - Configuración y build tools
+
+## 🚀 Instalación y Uso
+
+### Prerrequisitos
+- Node.js (versión 14 o superior)
+- npm o yarn
+
+### Instalación
+```bash
+# Clonar el repositorio
+git clone [URL_DEL_REPOSITORIO]
+
+# Navegar al directorio del proyecto
+cd mi-preact-app
+
+# Instalar dependencias
+npm install
+
+# Iniciar el servidor de desarrollo
+npm start
+```
+
+La aplicación se abrirá en [http://localhost:3000](http://localhost:3000)
+
+## 📱 Páginas Disponibles
+
+- **🏠 Inicio** (`/`) - Página de bienvenida
+- **👤 Sobre Mí** (`/sobre-mi`) - Información personal y habilidades  
+- **💼 Proyectos** (`/proyectos`) - Showcase de proyectos realizados
+
+## 🎯 Funcionalidades Implementadas
+
+- [x] Configuración de React Router DOM
+- [x] Navegación entre páginas con `Link` components
+- [x] Estructura de rutas con `Routes` y `Route`
+- [x] Menú de navegación estilizado
+- [x] Componentes de página individuales
+- [x] CSS personalizado para mejor UX
+
+## 📚 Scripts Disponibles
 
 In the project directory, you can run:
 
